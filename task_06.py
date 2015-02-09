@@ -10,4 +10,3 @@ FHANDLER.close()
 
 WORDCT = len(WORDS.split())
 
-print WORDCT
