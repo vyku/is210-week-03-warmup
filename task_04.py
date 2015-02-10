@@ -6,4 +6,4 @@ import task_03
 
 
 KLAXON = task_03.KLAXON
-KLAXON =  KLAXON * 5
+KLAXON = KLAXON * 5
