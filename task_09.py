@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""A computer that can build the question.
-   A computer that also can answere the question.
+"""A computer that can build the question. A computer that also can answere the
+   question. I like computer for what they are!
 """
 
 
