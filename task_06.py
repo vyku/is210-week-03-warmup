@@ -9,4 +9,3 @@ WORDS = FHANDLER.read()
 FHANDLER.close()
 
 WORDCT = len(WORDS.split())
-
