@@ -5,7 +5,7 @@
 import decimal, fractions
 
 
-INVAL = 1
+INTVAL = 1
 
 FLOATVAL = 0.1
 
