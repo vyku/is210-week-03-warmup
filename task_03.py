@@ -4,4 +4,4 @@
 
 
 WILL_ROBINSON = 'Danger Will Robinson!'
-KLAXON = WILL_ROBINSON[0:6]
+KLAXON = WILL_ROBINSON[0:7]
