@@ -7,3 +7,9 @@ Strings are immutable but what about the variables that hold them?
 
 
 RAVEN = 'quoth'
+
+RAVEN = 'nevermore!'
+
+print RAVEN
+
+

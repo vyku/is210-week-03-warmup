@@ -8,5 +8,7 @@ KLAXON = WILL_ROBINSON[0:7]
 
 print KLAXON
 
+print KLAXON*5
+
 
 
