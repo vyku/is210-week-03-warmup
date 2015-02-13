@@ -5,4 +5,8 @@
 import task_03
 
 
-KLAXON = task_03.KLAXON
+KLAXON = task_03.KLAXON *5
+
+print KLAXON 
+
+
