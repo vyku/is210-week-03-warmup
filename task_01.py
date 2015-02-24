@@ -11,5 +11,3 @@ RAVEN = 'quoth'
 RAVEN = 'nevermore!'
 
 print RAVEN
-
-

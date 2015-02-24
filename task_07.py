@@ -10,6 +10,5 @@ if "GRANARIES" in WORDS:
 
     print "GARNARIES_EXISTS"
 
-else :
-        print "GARNARIES_ DO NOT EXIST"
-    
+else:
+    print "GARNARIES_ DO NOT EXIST"

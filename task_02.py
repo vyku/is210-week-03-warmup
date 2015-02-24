@@ -1,15 +1,9 @@
-#!usr/bin/env python
-# _*_ coding: utf _8 _*_
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 """ a sample doc string """
 
 
-week =(((19 % 10) + 100 )+(2 ** 8))/7
+WEEK = (((19 % 10) + 100)+(2 ** 8))/7
 
-print week
-
-
-
-
-
-
+print WEEK
